@@ -120,12 +120,12 @@ Full-stack technical assessment project, built end-to-end and deployed.
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AkashTomy174&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashTomy174&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=AkashTomy174&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AkashTomy174&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkashTomy174&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=AkashTomy174&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
