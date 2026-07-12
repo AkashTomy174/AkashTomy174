@@ -125,7 +125,7 @@ Full-stack technical assessment project, built end-to-end and deployed.
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AkashTomy174&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=AkashTomy174&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
